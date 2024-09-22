@@ -1,0 +1,20 @@
+
+h
+java:S1192F"FDefine a constant instead of duplicating this literal "/home" 3 times.(÷û§ƒşÿÿÿÿ8«ÎïŞ¡2
+“	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºôà8ª¾øİ¡2J$48d61b2b-c175-4e6d-851e-8f8688d99918
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ğê‡Ù¡2J$a694731a-fed3-499a-b068-e133dc39f075
+k	java:S106"+Replace this use of System.out by a logger.(îÍóÀûÿÿÿÿJ$d5d661c8-cdb5-453d-911d-bf449a2daab6
+k	java:S106 "+Replace this use of System.out by a logger.(óØáüÿÿÿÿJ$e259bdac-ac49-4ca8-ba78-fd2e6eb40f9a
+r	java:S106("+Replace this use of System.out by a logger.(÷èÓşúÿÿÿÿ8Úê‡Ù¡2J$2f8c6ff2-40ff-483b-aa79-aebcc7fde1db
+
+java:S4488,"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ê–Â–8Üê‡Ù¡2J$0c933046-148f-4bc8-bdd4-6bdf80c26b94
+r	java:S106O"+Replace this use of System.out by a logger.(¦¨‹¡úÿÿÿÿ8Á¿øİ¡2J$80a41ca0-55ba-492e-855d-98e86e219758
+m	java:S106["+Replace this use of System.out by a logger.(‹†À¹8Ä¿øİ¡2J$272254ef-025c-4d45-a28c-62112b7befea
+’
+java:S1128
+"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8åê‡Ù¡2J$391ab9df-0ced-4b1c-89ac-4282062a1d3d
+–
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.ModelAttribute'.(®ùæé8æê‡Ù¡2J$432709de-fef9-4561-8b06-118d16799e20
+˜
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ8æê‡Ù¡2J$eb7a5854-a25d-48d6-806d-f813ea00a261
